@@ -15,4 +15,6 @@ download learning tools = kickasstorrent.cr
 
 CFA PREP = https://gotestprep.com/cfa-level-1-practice-test-basic/
 
+https://www.mindluster.com/
+
 
